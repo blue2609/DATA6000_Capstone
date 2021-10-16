@@ -1,3 +1,12 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+  - [`Basic_CNN` sub-directory](#basic_cnn-sub-directory)
+  - [`everymac_spider_project` sub-directory](#everymac_spider_project-sub-directory)
+  - [Image Text Extraction Proof of Concept (POC)](#image-text-extraction-proof-of-concept-poc)
+- [Create virtual environment on your machine](#create-virtual-environment-on-your-machine)
+- [Running the spider to scrape everymac Macbook Listings](#running-the-spider-to-scrape-everymac-macbook-listings)
+
 # Overview
 This repository contains 3 mini-projects:
 
