@@ -1,0 +1,199 @@
+@ Systeminformation File Edit Window Help s
+
+Overview Displays Storage Support Se-y cé e ®@ MacBook Pro
+
+v Hardware
+
+macOS Big Sur
+
+Version 11.1
+
+MacBook Pro (15-inch, 2019)
+Processor 2.4 GHz 8-Core Intel Core i9
+Memory 32 GB 2400 MHz DDR4
+
+Graphics Radeon Pro Vega 20 4 GB
+Intel UHD Graphics 630 1536 MB
+
+Serial Number CO02ZJ1XYLVDR
+
+System Report Software Update
+
+eee ©” disk utility
+
+View
+
+Macintosh HD
+
+APFS System Snapshot - APFS
+macOS 11.1 (20C69)
+
+Free
+$78.32 GB
+
+APFS System Snapshot
+
+1T8 ~ Enabled
+
+978.32 GB (2.1 MB purgeable
+
+PCI-Express
+
+.05 GB diskis5s1
+
+Snapshot UVID: A5830100-AACB-40C& BSF5-
+
+ATA
+
+Apple Pay
+Audio
+Bluetooth
+Camera
+
+Card Reader
+Controller
+Diagnostics
+Disc Burning
+Ethernet Cards
+Fibre Channel!
+FireWire
+Graphics/Displays
+Memory
+NVMExpress
+PCI
+
+Parallel SCSI
+Power
+Printers
+
+SAS
+
+SATA
+
+SPI
+
+Storage
+Thunderbon
+USB
+
+v Network
+
+Firewall
+Locations
+Volumes
+WWAN
+Wi-Fi
+
+v Software
+
+Battery information:
+
+Model Information
+
+Manufacturer SMP
+bq20z451
+
+Device Name:
+
+Pack Lot Code: 0
+
+PCB Lot Code: 0
+
+Firmware Version 901
+
+Hardware Revision: 2
+
+Cell Revision 1734
+Charge Information
+
+Fully Charged
+
+Charging
+
+Full Charge Capacity (mAh):
+
+State of Charge (%)
+Health information
+
+Cycle Count: 331
+
+Condition Normal
+
+System Power Settings:
+
+AC Power
+
+System Sleep Timer (Minutes):
+Disk Sleep Timer (Minutes)
+Display Sleep Timer (Minutes):
+
+Wake on AC Change
+Wake on Clamshell Open:
+Wake on LAN
+AutoPowerOft Delay
+AutoPowerOlt Enabled:
+Display Sleep Uses Dim:
+Hibernate Mode
+
+1
+
+10
+
+10
+
+No
+
+Yes
+
+Yes
+259200
+1
+Yes
+3
+
+PrioritizeNetworkReachabilityOverSieep: O
+
+Battery Power:
+
+System Sleep Timer (Minutes):
+
+Disk Sleep Timer (Minutes):
+
+Display Sleep Timer (Minutes):
+
+Wake on AC Change:
+Wake on Clamshell Open:
+AutoPowerOff Delay:
+AutoPowerOff Enabled:
+Current Power Source:
+Display Sleep Uses Dim:
+Hibernate Mode:
+
+Reduce Brightness:
+
+Hardware Configuration:
+UPS Installed: No
+AC Charger Information:
+
+Connected: No
+Charging: No
+
+1
+
+10
+2
+No
+Yes
+259200
+1
+Yes
+Yes
+3
+Yes
+
+ME admin's MacBook Pro > Hardware » Power
+
+n@QB4z 6e
+
+ 
+

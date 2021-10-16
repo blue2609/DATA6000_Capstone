@@ -1,0 +1,67 @@
+Overview Displays Storage Support Service
+
+ 
+
+macOS Big Sur
+
+Ce ER
+
+MacBook Pro (15-inch, 2016)
+
+Processor 2.6 GHz Quad-Core Intel Core i7
+Memory 16 GB 2133 MHz LPDDR3
+Graphics Intel HD Graphics 530 1536 MB
+Serial Number CO2T75RUGTFL
+
+ese AU aur ie
+
+Model Information:
+aire et SMP
+ri ler a Fates bq202451
+Pack Lot Code: 0
+PCB Lot Code: 0
+Firmware Version: 702
+Hardware Revision: 1
+
+bers BC r ae): s 3925
+
+OU ee Bleu lies
+aA Oar lee tole i No
+
+sour eels No
+
+ROT eel err A eS) ol
+State of Charge (%): cr 3
+
+ee eB ie gut 1tlelae
+Cycle Count: 308
+Lorelle litle ta (ela ) |
+
+SE Ree hair
+
+AC Power:
+System Sleep Timer (Minutes): |
+Oisk Sleep Timer (Minutes): 10
+Display Sleep Timer (Minutes): 10
+Wake on AC Change: No
+Wake on Clamshell Open: ary
+Wake on LAN: a
+ET te eee re 259200
+AutoPowerOff Enabied: b |
+ole et BOLT a8) in A
+Pale iCmele lod cc}
+PrioritizeNetworkReachabilityOverSleep: 0
+
+Eat ee eras
+
+System Sleep Timer (Minutes): 1
+Disk Sleep Timer (Minutes): 10
+O-splay Sleep Timer (Minutes): 2
+
+Waxe on AC Change: i]
+Wake on Clamshel! Open: brs
+AutoPowerOff Delay: 259200
+AutoPowerOtf Enacied: s |
+
+eg oh tote Eee ie De tt Mee ort Td
+
